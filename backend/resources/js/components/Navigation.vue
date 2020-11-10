@@ -1,9 +1,8 @@
 <template>
     <div class="container">
-        <div class="card">
-            <div class="card-body">
-                This Navigation
-            </div>
+        <div>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
         </div>
     </div>
 </template>

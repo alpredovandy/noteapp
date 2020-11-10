@@ -10,6 +10,10 @@
 <body>
     <main id="app">
         <navigation></navigation>
+
+        <div class="py-4">
+            <router-view></router-view>
+        </div>
     </main>
 
     <script src="/js/app.js"></script>
